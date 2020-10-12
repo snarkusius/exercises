@@ -9,6 +9,9 @@ let arraythings = ["thin","thing2","thing3"]
 
 let marcus = {name:"marcus",lastName:"lengquist",age:18}
 
+let variabel = 2
 //något med ett värde tex
-1+1 1*5 variabe+variabel
+1+1 
+1*5
+ variabel+variabel
 
