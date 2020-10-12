@@ -31,6 +31,17 @@ function checkAge(age){
     }
 }
 
+function istanja(name){
+    return name===Taja
+}
+
+function ärLika(string1,string2){
+    return string1 === string2
+}
+
+function isLong(string1){
+    return string1.lenght > 18
+}
 
 
 
